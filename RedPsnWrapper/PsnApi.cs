@@ -14,7 +14,7 @@ namespace RedPsnWrapper
 		/// <summary>
 		/// Base URL of the API, ready for String.Format (passing method then query parameters).
 		/// </summary>
-		private const string apiUrl = "http://xxredxiiixx.com/psnapi/functions/{0}?{1}";
+		private const string apiUrl = "http://xxredxiiixx.com/psnapi/functions/{0}.php?{1}";
 		#endregion
 		/// <summary>
 		/// Delay (in milliseconds) to use between requests to the API.
